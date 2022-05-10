@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(179, 179, 179);
+}
+.container{
+    max-width: 600px;
+    min-height: 400px;
+    position: relative;
+    margin: auto;
+    border: 15px solid #fff;
+    border-radius: 2px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.4);
+}
