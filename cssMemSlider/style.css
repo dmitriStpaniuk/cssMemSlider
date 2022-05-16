@@ -124,7 +124,7 @@ input {
   width: 25%;
   height: 0;
   display: inline-block;
-  margin-right: -4px;
+  margin-right: -.3rem;
 }
 .article-title h3 {
   transition: all 800ms cubic-bezier(0.77, 0, 0.175, 1);
